@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ITWCT",
+"productVersion": "0.1",
+"dataUrl": "itwct_webgl_build.data.unityweb",
+"wasmCodeUrl": "itwct_webgl_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "itwct_webgl_build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
